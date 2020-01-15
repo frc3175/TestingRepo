@@ -13,6 +13,8 @@ public class RobotMap {
 // Drive Deadband
     public static final double driveDeadband = 0.2;
 
-
+// Driver Port Number 0
+    public static final int driverPort = 0;
+    
 }
 
